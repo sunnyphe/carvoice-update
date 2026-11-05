@@ -1,0 +1,4 @@
+226e2c63768e0711eb58b59d5dd25c8426084eb4e9edd81f04ef3cdd734e4318  1-天琴语音服务-daemon.apk
+95fd5a3a831a132e2518c5abca921b4aa808ddbcdfe7f26ab313c884314abbb5  2-天琴语音界面-view.apk
+f262ec624fb129cd61c49eb272d8f9f486803c137994af95d5a6ac0fde214ac1  3-Tianqin-DeepSeek-最终桥接.apk
+184e1a372a6dd48bbbc1e8cb23cd347193d62c9f9bf46344f30864b2b48eb6b0  安装说明.txt
