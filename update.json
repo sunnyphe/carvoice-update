@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.2",
+  "versionCode": 13,
+  "versionName": "1.0.3",
   "apkUrl": "CarVoiceAssistant-car.apk",
-  "sha256": "e2217bfa37361b32ef828165d37beead5f37c638474c41dcc0f5d80c879130fc",
-  "notes": "手机自动开启本地检查，车机检测到原厂助手后自动关闭检查端口；单一 APK 手机/车机通用"
+  "sha256": "78c4ff9fc6f76e5ab8460452762385c9310446269a31500e924e8e529e0361a9",
+  "notes": "修复体验页首次点击被占位文字跳过的问题；手机保留本地检查，车机自动关闭"
 }
