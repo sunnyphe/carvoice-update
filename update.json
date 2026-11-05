@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.3",
+  "versionCode": 14,
+  "versionName": "1.0.4",
   "apkUrl": "CarVoiceAssistant-car.apk",
-  "sha256": "78c4ff9fc6f76e5ab8460452762385c9310446269a31500e924e8e529e0361a9",
-  "notes": "修复体验页首次点击被占位文字跳过的问题；手机保留本地检查，车机自动关闭"
+  "sha256": "5ed6d3b08dafba7f580aa6102fc8dc7df5d181a4484d2784730ee49a7d8b4d2b",
+  "notes": "修复首次体验、旧悬浮层残留、大模型空返回及系统安装器兼容性"
 }
