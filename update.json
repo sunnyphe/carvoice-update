@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.5.1-update-channel",
+  "versionCode": 10,
+  "versionName": "1.0.0",
   "apkUrl": "CarVoiceAssistant-car.apk",
-  "sha256": "fb87eb3a710921f75ae9e38b835e3462a13ee053e01f7115bf7a4ec471a7f9d6",
-  "notes": "设置界面、应用内更新、DeepSeek v4 Pro 实时搜索"
+  "sha256": "c5263ccab00732ed1dba29b8d76f2deac6209f314c017cc309e0fd1273449ab1",
+  "notes": "单一 APK 手机体验版：内置模拟原助手、DeepSeek v4 Pro、实时搜索、设置与应用内更新"
 }
