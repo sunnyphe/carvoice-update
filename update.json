@@ -1,7 +1,7 @@
 {
   "versionCode": 20,
   "versionName": "1.2.0-offline-voice",
-  "apkUrl": "CarVoiceAssistant-car.apk",
-  "sha256": "561ed11b2de8cdda3e9749180256310fab569a11feffc19feddb908845c59194",
+  "apkUrl": "http://192.168.2.153:8081/CarVoiceAssistant-car.apk",
+  "sha256": "c334ea2a1c7d0df8c1df7b3e6bd8572dd503bdbb84d7a880fa4f400cdb387c0a",
   "notes": "内置 Vosk 中文离线语音模型，支持你好车机唤醒和悬浮球语音对话"
 }
