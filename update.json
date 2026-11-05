@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.1-phone-voice",
+  "versionCode": 18,
+  "versionName": "1.1.2-phone-voice",
   "apkUrl": "CarVoiceAssistant-car.apk",
-  "sha256": "30cce24684c5243b257799f81878b7ce821db851b5c805350c458647731eab0a",
-  "notes": "语音唤醒与悬浮球调试接口、语音识别日志完善"
+  "sha256": "2aaf22cacf5389a619c5bd21b824f842209153b4d87e4db1622e8d7394750a83",
+  "notes": "点击悬浮球打开前台语音对话窗口，支持直接语音识别、重试与关闭"
 }
